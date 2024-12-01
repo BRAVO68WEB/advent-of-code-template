@@ -1,7 +1,7 @@
 #![allow(clippy::must_use_candidate, clippy::missing_panics_doc)]
 
 #[allow(clippy::wildcard_imports)]
-use aoc_20XX::*;
+use aoc_20xx::*;
 
 fn main() {
     let mains = [
