@@ -1,9 +1,9 @@
 [package]
-name = "aoc-20XX"
+name = "aoc-20xx"
 version = "0.1.0"
 edition = "2021"
 authors = ["X"]
-default-run = "aoc-20XX"
+default-run = "aoc-20xx"
 
 [dependencies]
 itertools = "0.12.0"
