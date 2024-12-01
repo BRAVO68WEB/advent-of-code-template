@@ -20,4 +20,4 @@ cargo run
 
 ## License
 
-All solutions for [AoC 20XX](https://adventofcode.com/20XX) by BRAVO68WEB is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
+All solutions for [AoC 20XX](https://adventofcode.com/20XX) by X is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)

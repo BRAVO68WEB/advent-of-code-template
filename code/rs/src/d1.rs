@@ -4,11 +4,11 @@
     clippy::cast_lossless
 )]
 
-pub fn part1(input: &str) -> u32 {
+pub fn part1(_input: &str) -> u32 {
     0
 }
 
-pub fn part2(input: &str) -> u32 {
+pub fn part2(_input: &str) -> u32 {
     0
 }
 
